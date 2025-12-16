@@ -5,5 +5,6 @@
   </Configurations>
   <Project Path="../Lab05 no.2/Lab05 no.2.vcxproj" />
   <Project Path="../Lab05 no.3/Lab05 no.3.vcxproj" />
+  <Project Path="../Lab05 Test01/Lab05 Test01.vcxproj" />
   <Project Path="Lab05 no.1.vcxproj" />
 </Solution>
